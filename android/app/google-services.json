@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680218979496",
+    "firebase_url": "https://stugend-f94e9-default-rtdb.firebaseio.com",
+    "project_id": "stugend-f94e9",
+    "storage_bucket": "stugend-f94e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680218979496:android:55b0cc73f2b2a4e614e69d",
+        "android_client_info": {
+          "package_name": "com.stugendd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680218979496-u80lom7j8oq54gb056i1uchiep20p9g2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDedLj_9Ck6tbGWgguhC9d9UcIXd6q3Aag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680218979496-u80lom7j8oq54gb056i1uchiep20p9g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
